@@ -64,7 +64,7 @@ All powered by **GPU acceleration** for maximum speed.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/brainwallet-gpu-scanner.git
+git clone https://github.com/yourusername/brainwallet-gpu-scanner](https://github.com/ethicbrudhack/FastBrain-GPU-.git
 cd brainwallet-gpu-scanner
 
 # 2. Compile
