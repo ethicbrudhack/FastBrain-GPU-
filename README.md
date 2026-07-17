@@ -2,10 +2,10 @@
 
 <div align="center">
 
-![GitHub](https://img.shields.io/github/license/yourusername/brainwallet-gpu-scanner)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/yourusername/brainwallet-gpu-scanner)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/brainwallet-gpu-scanner)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/brainwallet-gpu-scanner)
+![GitHub](https://img.shields.io/github/license/ethicbrudhack/FastBrain-GPU-)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ethicbrudhack/FastBrain-GPU-)
+![GitHub last commit](https://img.shields.io/github/last-commit/ethicbrudhack/FastBrain-GPU-)
+![GitHub issues](https://img.shields.io/github/issues/ethicbrudhack/FastBrain-GPU-)
 ![GPU](https://img.shields.io/badge/GPU-NVIDIA%20CUDA-brightgreen)
 ![Language](https://img.shields.io/badge/language-C%2B%2B%20%26%20CUDA-blue)
 
