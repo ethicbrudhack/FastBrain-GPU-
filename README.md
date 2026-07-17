@@ -28,7 +28,10 @@ This tool allows you to:
 - **Find** wallets with balances
 
 All powered by **GPU acceleration** for maximum speed.
+---
+DONATE: bc1qps62cyk9f9unmdkc9k3ccj9e2h8ywfhg2j53ec
 
+Built with ❤️ for the crypto research community.
 ---
 ##📥 Download: 
 
