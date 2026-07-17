@@ -18,8 +18,7 @@
 ---
 
 ## 📖 What is BrainWallet?
-email: kevinvunderg@gmail.com
-video: https://youtu.be/xV7tdUcGEhg
+
 A **BrainWallet** is a Bitcoin wallet where the private key is generated from a passphrase (a word, phrase, or sentence). Anyone who knows the passphrase can access the funds.
 
 This tool allows you to:
