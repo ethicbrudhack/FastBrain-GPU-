@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![GitHub](https://img.shields.io/github/license/ethicbrudhack/FastBrain-GPU-)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/ethicbrudhack/FastBrain-GPU-)
+![License](https://img.shields.io/badge/license-MIT-brightgreen)
+![Release](https://img.shields.io/badge/release-v1.0.0-blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ethicbrudhack/FastBrain-GPU-)
 ![GitHub issues](https://img.shields.io/github/issues/ethicbrudhack/FastBrain-GPU-)
 ![GPU](https://img.shields.io/badge/GPU-NVIDIA%20CUDA-brightgreen)
