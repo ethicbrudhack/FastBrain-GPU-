@@ -60,13 +60,6 @@ Built with ❤️ for the crypto research community.
 - **Text file input** – any words, any source
 - **No configuration** needed
 - **Real-time progress** display
-
-### 💰 Cost Effective
-- **$50 one-time** for GPU instance
-- **No monthly fees**
-- **Unlimited scanning**
-- **Only stores found keys**
-
 ---
 
 ## 🚀 Quick Start
