@@ -38,6 +38,10 @@ Built with ❤️ for the crypto research community.
 📥adresy_unique.bin: https://drive.google.com/file/d/1vTkDbWXIwtv2_V-_FnuW6QjonaCd_XSx/view?usp=drive_link
 
 📥Gtable: https://drive.google.com/file/d/1IggsvXIFmHWjiw4Rh-bKAKwWJ0OYxL9l/view?usp=drive_link
+
+🌐 Website: https://fastscangpu.duckdns.org/
+
+💬 Telegram https://t.me/+39k4WcVDfYhiMWFk
 ```
 ## ✨ Features
 
