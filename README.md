@@ -16,13 +16,6 @@
 </div>
 
 ---
-##📥 Download: 
-```
-📥adresy_unique.bin: https://drive.google.com/file/d/1vTkDbWXIwtv2_V-_FnuW6QjonaCd_XSx/view?usp=drive_link
-
-
-
-📥Gtable: https://drive.google.com/file/d/1IggsvXIFmHWjiw4Rh-bKAKwWJ0OYxL9l/view?usp=drive_link
 
 
 ## 📖 What is BrainWallet?
@@ -37,6 +30,12 @@ This tool allows you to:
 All powered by **GPU acceleration** for maximum speed.
 
 ---
+##📥 Download: 
+```
+📥adresy_unique.bin: https://drive.google.com/file/d/1vTkDbWXIwtv2_V-_FnuW6QjonaCd_XSx/view?usp=drive_link
+
+
+📥Gtable: https://drive.google.com/file/d/1IggsvXIFmHWjiw4Rh-bKAKwWJ0OYxL9l/view?usp=drive_link
 
 ## ✨ Features
 
